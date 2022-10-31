@@ -26,7 +26,3 @@ for i in range(x):
         yenigoruntu[i,j] = 255 - goruntu[i,j]
 
 print(goruntu[0,0]) #görüntünün max pixeli
-
-
-
-
